@@ -1,0 +1,10 @@
+version: '0.1'
+
+services:
+  demo:
+    image: mysql
+    container_name: demo
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+    ports:
+      - 3306:3306
