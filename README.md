@@ -13,4 +13,7 @@ Address Book Application:
 - Use JDBC to connect to a database to store and retrieve contact information.
 - Implement basic CRUD (Create, Read, Update, Delete) operations using JDBC statements.
 
+Her kode fasiten til oppgaven:
+[JdbcPhoneContact](https://github.com/Errons1/JdbcPhoneContact)
+
 Lykke til og happy coding!
