@@ -39,4 +39,10 @@ Database Interaction:
 - Ensure that database connections are properly managed, and transactions are handled appropriately.
 
 
+
+Her er linkene til artiklene jeg benyttet når jeg gikk igjennom teori
+[https://medium.com/@cancerian0684/what-are-four-basic-principles-of-object-oriented-programming-645af8b43727](What are four basic principles of Object Oriented Programming?)
+[https://medium.com/@bindubc/association-aggregation-and-composition-in-oops-8d260854a446](Association, aggregation, and composition in OOPs)
+
+
 Lykke til og happy coding!
